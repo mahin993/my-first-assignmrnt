@@ -27,10 +27,14 @@ h1{
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato, green);
-    color: white;
+    color: black;
     padding: 10px 40px;
     font-weight: 700;
     border-radius: 10px;
+}
+.link-button:hover{
+    background: yellowgreen;
+    color: white;
 }
 .header{
     border-left: 7px solid;
