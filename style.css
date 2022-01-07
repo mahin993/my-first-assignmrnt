@@ -5,7 +5,6 @@ body{
 .flexible-container{
     display: flex;
     margin-bottom: 80px;
-    margin-left: 80px;
 }
 h1{
     font-size: 50px;
@@ -65,7 +64,7 @@ h1{
     color: white;
     text-align: center;
     font-size: 20px;
-    background-color: coral;
+    background-color: gray;
 }
 footer h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
